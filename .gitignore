@@ -1,0 +1,17 @@
+# Node
+frontend/node_modules/
+frontend/package-lock.json
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Large model file (optional)
+backend/model/emotion_model.h5
